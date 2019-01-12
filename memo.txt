@@ -1,0 +1,11 @@
+クライアントID
+f45f200c-f796-4e32-83be-75982a029d14
+
+発行者のURL
+https://sts.windows.net/ed5695f5-b29b-4836-bcb0-f89023d21599/
+
+クライアン トシークレット
+OoMFgdv+5eZgG68OwGxcE7gA0cyzcY8hrIfeUkGt5ew=
+
+許可されるトークン対象ユーザー
+https://(FunctionsApp名).azurewebsites.net/.auth/login/aad/callback
